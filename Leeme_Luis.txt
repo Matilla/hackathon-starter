@@ -1,0 +1,13 @@
+Para ejecutar este proyecto
+
+1) clonar el repo
+2) npm install => para instalar los modulos del package.json
+3) Instalar mongodb, en mi mac esta en /home/sp19073/MongoDB
+4) Directorio de datos mongo en /data/db
+5) Iniciar mongod desde el bin de /home/sp19073/MongoDB
+6) Desde el directorio del proyecto node app.js
+7) Conectar a http://localhost:8080/
+
+
+Nota: Para instalar mongodb en MAC lo hice de la manera manual
+que se describe en esta URL https://treehouse.github.io/installation-guides/mac/mongo-mac.html
